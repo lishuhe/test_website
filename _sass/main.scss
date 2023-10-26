@@ -22,9 +22,9 @@ $card-bg-color: linear-gradient(
 );
 $mini-card-bg-color: #414547;
 
-$primary-color: #FF073A;
-$secondary-color: #E81400;
-$third-color: #D93300;
+$primary-color: #6fc6fc;
+$secondary-color: #c2e4f2;
+$third-color: #7592fa;
 $forth-color: #9C006D;
 $fifth-color: #9800AB;
 
@@ -33,7 +33,7 @@ $fifth-color: #9800AB;
 $skillsTypes: Research, Communication, Management;
 $skillsTypesColors: (
   Research: #FF987A,
-  Communication: #E8796F,
+  Communication: #e8796f,
   Management: #E86FC8,
 );
 $skillsCount: calc(length($skillsTypes) + 1);
