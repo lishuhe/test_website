@@ -5,32 +5,32 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
+- name: experimental design
   weight: 5
 
-- name: Bash
+- name: in vitro cell culture assays
   weight: 3
 
-- name: Scrum
+- name: confocal microscopy
   weight: 3
 
-- name: Travis CI
+- name: R
   weight: 1
 
-- name: Jenkins
+- name: Python
   weight: 1
 
-- name: Chrome DevTools
+- name: DNA/RNA/protein/tissue handling
   weight: 2
 
-- name: npm
+- name: GraphPad Prism
   weight: 2
 
-- name: gulp
+- name: animal surgery
   weight: 4
 
-- name: VS Code
-  weight: 3
+- name: molecular cloning
+  weight: 1
 
-- name: Postman
+- name: multi-color flow cytometry
   weight: 4
