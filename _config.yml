@@ -18,7 +18,7 @@ username: Lishu He
 
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Scientist
+typing_text: Scientist in training
 
 # email: Your E-Mail address for the email button.
 email: lishuhe@arizona.edu
@@ -111,7 +111,7 @@ show_contact_card: true
 contact_title: Contact
 
 # contact_description: This will be displayed under the title.
-contact_description: lishuhe@arizona.edu
+contact_description: 
 
 # GITHUB-METADATA
 # Set this to your forked repository
