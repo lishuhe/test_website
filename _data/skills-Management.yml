@@ -5,38 +5,26 @@
 # - name: Git
 #   weight: 5
 
-- name: TypeScript
+- name: project development
+  weight: 3
+
+- name: leadership
+  weight: 4
+
+- name: intellectual property
+  weight: 2
+
+- name: collaboration
   weight: 5
 
-- name: JavaScript
+- name: time management
   weight: 4
 
-- name: Python
-  weight: 2
-
-- name: HTML5
-  weight: 4
-
-- name: CSS3
+- name: leadership
   weight: 3
 
-- name: SASS
-  weight: 3
-
-- name: Java
+- name: technology transfer
   weight: 1
 
-- name: Dart
+- name: regulatory affairs
   weight: 1
-
-- name: Swift
-  weight: 1
-
-- name: Kotlin
-  weight: 1
-
-- name: C++
-  weight: 2
-
-- name: Ruby
-  weight: 2
