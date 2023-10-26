@@ -18,7 +18,7 @@ username: Lishu He
 
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Scientist
 
 # email: Your E-Mail address for the email button.
 email: lishuhe@arizona.edu
@@ -45,7 +45,7 @@ show_aboutme_card: true
 about_me_title: About Me
 
 # about_me_description: This will be displayed under the title.
-about_me_description: A high school dropout turned ambitious young scientist, I am currently a fifth-year PhD student pursuing a degree in Physiology. When I am not in the lab, I love indulging my love for books, working my way through recipes, as well as doing small film projects with my beloved DSLR camera.
+about_me_description: I am currently a fifth-year PhD student pursuing a degree in Physiology studying the epigenomics of hypertension. When I am not in the lab, I love indulging my love for books, working my way through recipes, as well as doing small film projects with my beloved DSLR camera.
 
 ### SKILLS SECTION ###
 
@@ -96,7 +96,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: [Open Source Projects]
@@ -111,12 +111,12 @@ show_contact_card: true
 contact_title: Contact
 
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: lishuhe@arizona.edu
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: miorey/develinside
+repository: lishuhe/test_website
 
 projects:
   # sortby:
