@@ -5,29 +5,23 @@
 # - name: Git
 #   weight: 5
 
-- name: Angular
+- name: peer-reviewed manuscripts
   weight: 5
 
-- name: AngularJS
-  weight: 3
-
-- name: React
+- name: abstracts
   weight: 4
 
-- name: Node
+- name: posters
   weight: 1
 
-- name: Flutter
+- name: meeting reports
   weight: 2
 
-- name: Express
+- name: multi-media science outreach
   weight: 3
 
-- name: Django
-  weight: 1
-
-- name: Spring
+- name: SOPs
   weight: 2
 
-- name: Rails
+- name: conference presentations
   weight: 4
