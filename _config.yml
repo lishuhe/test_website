@@ -18,7 +18,7 @@ username: Lishu He
 
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Scientist in training
+typing_text: Scientist-in-training
 
 # email: Your E-Mail address for the email button.
 email: lishuhe@arizona.edu
@@ -145,7 +145,7 @@ projects:
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
-google-analytics:
+ google-analytics:
  id: ""
 
 ### END OF VALUES YOU SHOULD CHANGE ###

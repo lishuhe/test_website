@@ -14,27 +14,27 @@ $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
 $text-color: #fff !default;
-$bg-color: rgba(43, 45, 47, 1);
+$bg-color: rgb(69, 72, 75);
 $card-bg-color: linear-gradient(
   145deg,
-  rgba(255, 115, 115, 0.15) 15%,
+  rgba(14, 35, 230, 0.15) 15%,
   rgba(43, 45, 47, 1) 80%
 );
-$mini-card-bg-color: #414547;
+$mini-card-bg-color: #4f5b61;
 
-$primary-color: #6fc6fc;
-$secondary-color: #c2e4f2;
+$primary-color: #1949e6;
+$secondary-color: #258cb4;
 $third-color: #7592fa;
-$forth-color: #9C006D;
-$fifth-color: #9800AB;
+$forth-color: #1a0dce;
+$fifth-color: #5b3fa8;
 
 
 
 $skillsTypes: Research, Communication, Management;
 $skillsTypesColors: (
-  Research: #FF987A,
-  Communication: #e8796f,
-  Management: #E86FC8,
+  Research: #ecac98,
+  Communication: #cbec7f,
+  Management: #f788d9,
 );
 $skillsCount: calc(length($skillsTypes) + 1);
 $filterButtonWidthLarge: calc((100 - 2.5 * $skillsCount) / $skillsCount);
