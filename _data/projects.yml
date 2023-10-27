@@ -15,11 +15,11 @@
 
 - name: The Role of PRMT5 in Pancreatic Cancer
   descr: "I lead a research project on comprehensive screening of pharmacological inhibition of histone methyltransferases and nodes in DNA damage repair signaling or other genetic/epigenetic pathways as candidates for pancreatic cancer treatment. Based on the results from the screening, I further examined the roles of PRMT5, a histone methyltransferase mediating mono-/di- symmetric methylation of arginine residues, in the development and progressing of pancreatic cancer. We were excited to find that the pharmacological inhibition of PRMT5 triggered DNA damage and activation of the ATR pathway, which led to a G2/M cell cycle checkpoint arrest. My contributions to this work were included in an abstract accepted to Experimental Biology 2022, where I also gave an oral presentation."
-  demo: https://faseb.onlinelibrary.wiley.com/doi/10.1096/fasebj.2022.36.S1.0R678
+  paper: https://faseb.onlinelibrary.wiley.com/doi/10.1096/fasebj.2022.36.S1.0R678
 
 - name: The involvement of microRNA-148a in low-density lipoprotein metabolism
   descr: "I set up in vitro cultures and conducted a wide range of experiments, including LDL uptake assay, immunoblotting, and qPCR. During the study, I also assisted with the in silico analyses predicting miR-148a's binding sites in the (pro)renin receptor [(P)RR], a novel regulator of LDL Receptor (LDLR) degradation and LDL metabolism. We found that miR-148a decreases LDLR protein abundance and cellular LDL uptake by reducing (P)RR abundance. My contributions to this work were included in a publication published in PLoS One."
-  demo: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225356
+  paper: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225356
 
 - name: The tissue-specific epigenomic and transcriptomic mechanisms underlying hypertension
   descr: "In my current research, I am utilizing an integrated approach combining human research, animal models, molecular biology, and big data analysis. I believe the results derived from my research will be highly relevant to human health as they will contribute to a broader, genome-wide understanding of molecular regulatory networks underlying renal injury in hypertension."
